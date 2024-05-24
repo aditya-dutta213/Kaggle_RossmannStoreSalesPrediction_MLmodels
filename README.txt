@@ -13,6 +13,7 @@ This project explores machine learning approaches for predicting sales at Rossma
 
 - `Kaggle_RossmannStoreSales_Prediction.ipynb`: Jupyter Notebook with the code and detailed explanation.
 - `README.md`: Overview of the project and its contents.
+-  'Notebook PDF': PDF of Jupyter Notebook
 
 ## Dataset
 
